@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "FileServer",
+            "request": "launch",
+            "mainClass": "FileServer",
+            "projectName": "RMI-Servidor_b6d6f451"
+        }
+    ]
+}
