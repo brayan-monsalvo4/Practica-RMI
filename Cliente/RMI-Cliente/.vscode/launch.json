@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "FileClient",
+            "request": "launch",
+            "mainClass": "FileClient",
+            "projectName": "RMI-Cliente_d4988529",
+            "args": ["localhost"]
+        }
+    ]
+}
